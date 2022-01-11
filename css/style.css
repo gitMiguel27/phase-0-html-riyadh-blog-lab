@@ -15,18 +15,18 @@ body {
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 40%;
   padding-bottom: 40px;
 }
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(174, 166, 247, 0.85);
 }
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: rgb(241, 234, 163);
 }
 
 h1 {
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(255, 255, 255);
   text-decoration: none;
 }
 
